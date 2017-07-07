@@ -1,1 +1,1 @@
-# GoldenSunX.github.io
+github.io
